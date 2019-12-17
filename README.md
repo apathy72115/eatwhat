@@ -10,7 +10,7 @@
 
 APP 介面 :  
 (進入初始畫面)  
-![image](https://github.com/apathy72115/eatwhat/blob/master/1.jpg)
+![image](https://github.com/apathy72115/eatwhat/blob/master/1.jpg)  
 (輸入餐廳名稱,並按下確定儲存)  
 ![image](https://github.com/apathy72115/eatwhat/blob/master/2.jpg)  
 (資料已加入資料庫並列出)  
