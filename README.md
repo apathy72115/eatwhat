@@ -12,13 +12,13 @@
 
 APP 介面 :  
 
-    進入初始畫面  
+    @進入初始畫面  
 
-    輸入餐廳名稱,並按下確定儲存    
+    @輸入餐廳名稱,並按下確定儲存    
 
-    資料已加入資料庫並列出  
+    @資料已加入資料庫並列出  
     
-    按下確定隨機挑選餐廳  
+    @按下確定隨機挑選餐廳  
 ![image](https://github.com/apathy72115/eatwhat/blob/master/1.jpg)
 ![image](https://github.com/apathy72115/eatwhat/blob/master/2.jpg)
 ![image](https://github.com/apathy72115/eatwhat/blob/master/3.jpg)
